@@ -10,7 +10,7 @@ vector<string> getHeroList (const string & pathToList){
     vector<string> laListe;
     unsigned cpt (0);
     if (laListeDesHeros.fail()){
-        cout << "desole le fichier n'a pas pu etre ouvert !" << endl;
+        cerr << "desole le fichier n'a pas pu etre ouvert !" << endl;
     }
     else {
         while (true){
@@ -36,4 +36,3 @@ int main()
     readHeroList(HeroList);
     return 0;
 }
-//ceci est un test
