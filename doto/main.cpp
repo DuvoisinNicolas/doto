@@ -1,4 +1,6 @@
 #include <iostream>
+#include <ifstream>
+#include <ofstream>
 
 using namespace std;
 
