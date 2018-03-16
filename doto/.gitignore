@@ -37,7 +37,7 @@ Thumbs.db
 
 # qtcreator generated files
 *.pro.user*
-build-*-Debug
+build-*-Debug/
 
 # xemacs temporary files
 *.flc
