@@ -19,3 +19,4 @@ int main()
     readHeroList(HeroList);
     return 0;
 }
+//ceci est un test
