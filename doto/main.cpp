@@ -3,7 +3,10 @@
 using namespace std;
 
 void getHeroList ();
-void readHeroList ();
+void readHeroList (const string & HeroList)
+{
+  for
+}
 
 int main()
 {
